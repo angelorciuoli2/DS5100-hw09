@@ -1,4 +1,4 @@
-from booklover import BookLover
+from booklover.booklover import BookLover
 
 # Create a BookLover instance
 bl = BookLover("Alice", "alice@example.com", "Fantasy")
